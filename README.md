@@ -87,6 +87,8 @@ Stable sort (preserves the order of equal elements)
 
 Not suitable for large datasets due to O(n²) time complexity
 Performs many shifts in the worst case
-🔗 References
+
+**🔗 References**
+
 Insertion Sort - GeeksforGeeks
 Sorting Algorithms - Wikipedia
