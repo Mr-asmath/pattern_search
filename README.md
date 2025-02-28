@@ -56,6 +56,7 @@ int main() {
 
     return 0;
 }
+```
 **🛠️ Compilation & Execution**
 To compile and run the program, use the following commands in a terminal:
 
