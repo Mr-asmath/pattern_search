@@ -60,9 +60,7 @@ int main() {
 ## 🛠️ Compilation & Execution
 To compile and run the program, use the following commands in a terminal:
 
-```sh
-Copy
-Edit
+```sh Copy Edit
 gcc insertion_sort.c -o insertion_sort
 ./insertion_sort
 ```
@@ -73,14 +71,14 @@ Original array: 12 11 13 5 6
 Sorted array: 5 6 11 12 13
 ```
 
-##⏳ Time Complexity
+## ⏳ Time Complexity
 
 Case	Time Complexity
 Best Case (Sorted Input)	O(n)
 Worst Case (Reversed Input)	O(n²)
 Average Case	O(n²)
 
-##📌 Advantages
+## 📌 Advantages
 
 Simple to implement
 Efficient for small datasets
